@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
+* TOC
+{:toc}
+
 ### Info 
+
+**Course:** Computation and the Brain @ Columbia University, Fall 2018
 
 **Instructor:**  [Christos Papadimitriou](https://people.eecs.berkeley.edu/~christos/)
 
@@ -56,7 +61,7 @@ Tentative list of topics:
 
 * Mandatory attendance at the lecture each week
 
-* Doing the assigned reading and writing up a graded one-page discussion each week. Also, include two questions about the material in preparation for the class. There may be a quiz in-class on the reading.
+* Doing the assigned reading and writing up a graded one-page discussion each week. Also, include two questions about the material in preparation for the class. There may be an in-class quiz on the reading.
 
 * Participating in class discussions
 
@@ -78,5 +83,4 @@ Tentative list of topics:
 
 Grading will be done via [Gradescope](https://www.gradescope.com/). Please sign up as per the instructions on Piazza. 
 
-### Other links
 
