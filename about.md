@@ -8,7 +8,7 @@ permalink: /about/
 
 **Instructor:**  [Christos Papadimitriou](https://people.eecs.berkeley.edu/~christos/)
 
-**TAs:** [Kiran Vodrahalli](kiranvodrahalli.github.io), Tim Randolph, Jacob Portes
+**TAs:** [Kiran Vodrahalli](https://kiranvodrahalli.github.io), Tim Randolph, Jacob Portes
 
 **Lecture:** Wed 4:10pm-6:40pm; 633 Mudd Hall, Columbia University
 
