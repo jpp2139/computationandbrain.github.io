@@ -1,2 +1,2 @@
 # computationandbrain.github.io
-Website for COMS 6998-06 (Fall 2018), Computation and the Brain (Columbia University)
+COMS 6998-06: Computation and the Brain (Fall 2018 at Columbia University)
