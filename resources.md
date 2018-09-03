@@ -9,9 +9,11 @@ There are many online resources that can be helpful for learning the content of 
 * TOC
 {:toc}
 
-## Similar Courses
+## Similar Courses/Related Material
 
 * [Santosh Vempala's Computation and the Brain course @ Georgia Tech, Fall 2016](https://computationandbrain.wordpress.com/)
+
+* [Simons Institute: The Brain and Computation, Spring 2018](https://simons.berkeley.edu/programs/brain2018)
 
 ## Books
 
