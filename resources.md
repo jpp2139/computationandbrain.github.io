@@ -9,6 +9,10 @@ There are many online resources that can be helpful for learning the content of 
 * TOC
 {:toc}
 
+## Similar Courses
+
+* [Santosh Vempala's Computation and the Brain course @ Georgia Tech, Fall 2016](https://computationandbrain.wordpress.com/)
+
 ## Books
 
 ### Neuroscience
@@ -22,6 +26,11 @@ There are many online resources that can be helpful for learning the content of 
 * [Fundamentals of Computational Neuroscience (Trappenberg - 2010)](https://www.amazon.com/Fundamentals-Computational-Neuroscience-Thomas-Trappenberg-ebook/dp/B00F1D7K90)
 
 * [Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition (Gerstner, Paninski - 2014)](https://www.amazon.com/Neuronal-Dynamics-Neurons-Networks-Cognition/dp/1107635195)
+
+### Algorithms and Machine Learning
+
+* [Foundations of Data Science (Blum, Hopcroft, Kannan)](https://www.cs.cornell.edu/jeh/book.pdf)
+* [A Course in Machine Learning (Daumé III)](http://ciml.info/)
 
 ### Complexity Theory 
 
