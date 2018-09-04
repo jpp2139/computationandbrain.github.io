@@ -59,7 +59,8 @@ Some more domain-specific books:
 
 ### The Brain and Computer Vision
 
-* Vision (Marr 1982)
+* [Vision (Marr 1982)] (
+https://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621/)
 
 ### Statistical Physics and the Brain
 
@@ -69,7 +70,8 @@ Some more domain-specific books:
 
 ### Dynamical Systems
 
-* Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting (Izhikevich - 2010)
+* [Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting (Izhikevich - 2010)](
+https://www.amazon.com/Dynamical-Systems-Neuroscience-Excitability-Computational/dp/0262514206)
 
 ### Philosophy and Computation
 
