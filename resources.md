@@ -59,8 +59,7 @@ Some more domain-specific books:
 
 ### The Brain and Computer Vision
 
-* [Vision (Marr 1982)] (
-https://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621/)
+* [Vision (Marr 1982)](https://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621/)
 
 ### Statistical Physics and the Brain
 
