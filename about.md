@@ -19,7 +19,7 @@ permalink: /about/
 
 * Office hours:
     * Instructor: TBA
-    * Kiran: TBA
+    * Kiran: Tuesdays 1-2:30 pm, Mudd 416 (in Data Science Institute)
     * Tim: TBA
     * Jacob: TBA
 
@@ -57,11 +57,15 @@ Tentative list of topics:
 
 ### Prerequisites
 
+Some exposure to programming, algorithms, complexity theory, and machine learning is great. Neuroscience background will also be useful.
+
+Keep in mind this is a graduate level topics course --- the class will be structured around participation in discussions and reading papers, some of which will be theoretical in nature. 
+
 ### Evaluation
 
 * Attendance at the lecture each week
 
-* Doing the assigned reading and writing up a graded one-page discussion each week, to be posted on Piazza. Also, include two questions about the material in preparation for the class. There may be an in-class quiz on the reading.
+* Doing the assigned reading and writing up a graded one-page discussion each week, to be posted on [Piazza](https://piazza.com/columbia/fall2018/comse6998_006_2018_3topicsincomputerscience/). Also, include two questions about the material in preparation for the class. There may be an in-class quiz on the reading.
 
 * Participating in class discussions (and hopefully on Piazza as well!)
 
@@ -81,6 +85,6 @@ Tentative list of topics:
 
 ### Homework assignments
 
-Grading will be done via [Gradescope](https://www.gradescope.com/). Please sign up as per the instructions on Piazza. 
+Grading will be done via [Gradescope](https://www.gradescope.com/). Please sign up as per the instructions on [Piazza](https://piazza.com/columbia/fall2018/comse6998_006_2018_3topicsincomputerscience/). 
 
 

@@ -23,7 +23,9 @@ There are many online resources that can be helpful for learning the content of 
 
 ### Computational Neuroscience 
 
-* [Introductory/Survey of Computational Neuroscience Theoretical Neuroscience (Dayan and Abbott - 2001)](https://www.amazon.com/Theoretical-Neuroscience-Computational-Mathematical-Modeling/dp/0262541858/ref=sr_1_1?s=books&ie=UTF8&qid=1535668549&sr=1-1&keywords=Theoretical+Neuroscience)
+* [Theoretical Neuroscience (Dayan and Abbott - 2001)](https://www.amazon.com/Theoretical-Neuroscience-Computational-Mathematical-Modeling/dp/0262541858/ref=sr_1_1?s=books&ie=UTF8&qid=1535668549&sr=1-1&keywords=Theoretical+Neuroscience)
+
+* [Fundamental Neuroscience (Squire)](https://www.amazon.com/Fundamental-Neuroscience-Squire/dp/0123858704)
 
 * [Fundamentals of Computational Neuroscience (Trappenberg - 2010)](https://www.amazon.com/Fundamentals-Computational-Neuroscience-Thomas-Trappenberg-ebook/dp/B00F1D7K90)
 
@@ -43,7 +45,7 @@ Some more domain-specific books:
 
 ### Historical Books
 
-* [The Computer and the Brain (von Neumann - 1947)](https://www.amazon.com/Computer-Brain-Silliman-Memorial-Lectures/dp/0300181116/ref=sr_1_1?s=books&ie=UTF8&qid=1535668975&sr=1-1&keywords=von+neumann+computer+brain)
+* [The Computer and the Brain (von Neumann - 1947)]https://archive.org/details/TheComputerAndTheBrain)
 
 * [Perceptrons (Minsky and Papert - 1969)](https://www.amazon.com/Perceptrons-Introduction-Computational-Geometry-Expanded/dp/0262631113/ref=sr_1_1?s=books&ie=UTF8&qid=1535669028&sr=1-1&keywords=perceptron+papert)
 
@@ -95,9 +97,14 @@ https://www.amazon.com/Dynamical-Systems-Neuroscience-Excitability-Computational
 
 ### Cool Facts
 
-Interestingly, the origins of the symbols used in logic can be traced back to an article by [McCulloch and Pitts (1943)](https://link.springer.com/article/10.1007%2FBF02478259), where pyramidal cells were used in diagrams in a similar fashion to circuit logic today: 
+* [Brain Facts and Figures](https://faculty.washington.edu/chudler/facts.html)
+
+* Pyramidal cells inspired logic gate notation: Interestingly, the origins of the symbols used in logic can be traced back to an article by [McCulloch and Pitts (1943)](https://link.springer.com/article/10.1007%2FBF02478259), where pyramidal cells were used in diagrams in a similar fashion to circuit logic today: 
 
 ![pyramidal logic]({{ site.url }}/assets/logic_pyramidal.png)
 
 ## Papers
+
+* [Emergence of simple-cell receptive field properties by learning a sparse code for natural images (Olhausen and Field, 1996)](https://www.nature.com/articles/381607a0)
+* [Natural Stimulation of the Nonclassical Receptive Field Increases Information Transmission Efficiency in V1 (Vinje and Gallant, 2002)](http://www.jneurosci.org/content/22/7/2904.short)
 
