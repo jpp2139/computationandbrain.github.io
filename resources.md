@@ -45,7 +45,7 @@ Some more domain-specific books:
 
 ### Historical Books
 
-* [The Computer and the Brain (von Neumann - 1947)]https://archive.org/details/TheComputerAndTheBrain)
+* [The Computer and the Brain (von Neumann - 1947)](https://archive.org/details/TheComputerAndTheBrain)
 
 * [Perceptrons (Minsky and Papert - 1969)](https://www.amazon.com/Perceptrons-Introduction-Computational-Geometry-Expanded/dp/0262631113/ref=sr_1_1?s=books&ie=UTF8&qid=1535669028&sr=1-1&keywords=perceptron+papert)
 
