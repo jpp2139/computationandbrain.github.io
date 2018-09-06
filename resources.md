@@ -93,7 +93,7 @@ https://www.amazon.com/Dynamical-Systems-Neuroscience-Excitability-Computational
 ### Misc. Useful Links
 
 * [Compilation of resources for theoretical cs, machine learning, statistics, and more](https://kiranvodrahalli.github.io/links/#resources-notes-textbooks-monographs-classes-etc)
-
+* [Unsupervised Thinking Podcast](http://unsupervisedthinkingpodcast.blogspot.com/)
 
 ### Cool Facts
 

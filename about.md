@@ -13,15 +13,16 @@ permalink: /about/
 
 **Instructor:**  [Christos Papadimitriou](https://people.eecs.berkeley.edu/~christos/)
 
-**TAs:** [Kiran Vodrahalli](https://kiranvodrahalli.github.io), Tim Randolph, Jacob Portes
+**TAs:** [Kiran Vodrahalli](https://kiranvodrahalli.github.io), Tim Randolph, Jacob Portes, Dan Mitropolsky
 
 **Lecture:** Wed 4:10pm-6:40pm; 633 Mudd Hall, Columbia University
 
 * Office hours:
     * Instructor: TBA
     * Kiran: Tuesdays 1-2:30 pm, Mudd 416 (in Data Science Institute)
-    * Tim: TBA
+    * Tim: Mondays 1 - 2pm, Mudd 516
     * Jacob: TBA
+    * Dan: TBA
 
 [Piazza page for the course](https://piazza.com/columbia/fall2018/comse6998_006_2018_3topicsincomputerscience/).
 
