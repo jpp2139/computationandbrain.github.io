@@ -9,6 +9,10 @@ There are many online resources that can be helpful for learning the content of 
 * TOC
 {:toc}
 
+## Notes and Slides for the Course
+
+* Week 1: [[Slides]](/slides/Lecture1.pptx) [[Notes]](/notes/notes1.pdf)
+
 ## Similar Courses/Related Material
 
 * [Santosh Vempala's Computation and the Brain course @ Georgia Tech, Fall 2016](https://computationandbrain.wordpress.com/)

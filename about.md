@@ -66,7 +66,7 @@ Keep in mind this is a graduate level topics course --- the class will be struct
 
 * Attendance at the lecture each week
 
-* Doing the assigned reading and writing up a graded one-page discussion each week, to be posted on [Piazza](https://piazza.com/columbia/fall2018/comse6998_006_2018_3topicsincomputerscience/). Also, include two questions about the material in preparation for the class. There may be an in-class quiz on the reading.
+* Doing the assigned reading and writing up a graded one-page discussion each week, to be posted on Gradescope. Also, include two questions about the material in preparation for the class. There may be an in-class quiz on the reading.
 
 * Participating in class discussions (and hopefully on Piazza as well!)
 
