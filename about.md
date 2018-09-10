@@ -19,7 +19,7 @@ permalink: /about/
 
 * Office hours:
     * Instructor: TBA
-    * Kiran: Tuesdays 1-2:30 pm, Mudd 416 (in Data Science Institute)
+    * Kiran: Tuesdays 1-2 pm, Mudd 416 (in Data Science Institute)
     * Tim: Mondays 1-2pm, Mudd 516
     * Jacob: Wednesdays 10-11am, CS Lounge
     * Dan: TBA
