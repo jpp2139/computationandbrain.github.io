@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Homework 2"
+date:  Thurs Sept 13 2018
+---
+
+
+### Due Wednesday, Sept. 19 at 12 pm on Gradescope. 
+
+1. Watch [this talk by Jack Gallant](https://simons.berkeley.edu/talks/jack-gallant-2-15-18) on "An Accurate Functional Model of Single Neurons in V1, V2 and V4".
+
+
+2. Read the paper ["Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing", by Kriegeskorte](https://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447).
+
+
+3. Read [pgs. 282-284 and 288-289 of Avi Widgerson's book "Mathematics and Computation"](https://www.math.ias.edu/files/mathandcomp.pdf). For fun (no need to respond), you can check out [an article by Prof. Papadimitriou on this topic](http://www.pnas.org/content/pnas/111/45/15881.full.pdf) as well.
+ 
+
+4. Submit an at least 1-page (max 5 page) response to Gradescope (see Piazza for some further instructions.) The response should include the following:
+
+  - At least a paragraph for each of items 1, 2, and 3 that summarizes what you found interesting and makes it clear you've done the assignment carefully.
+
+  - Two discussion points/questions you'd like to touch on in class. Also post these on Piazza after you submit your assignment!
+
+
