@@ -12,6 +12,7 @@ There are many online resources that can be helpful for learning the content of 
 ## Notes and Slides for the Course
 
 * Week 1: [[Slides]](/slides/Lecture1.pptx) [[Notes]](/notes/notes1.pdf)
+* Week 2: [[Slides]](/slides/Lecture2.pptx) [[Notes]](/notes/notes2.pdf)
 
 ## Similar Courses/Related Material
 
