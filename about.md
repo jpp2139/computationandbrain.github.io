@@ -18,7 +18,7 @@ permalink: /about/
 **Lecture:** Wed 4:10pm-6:40pm; 633 Mudd Hall, Columbia University
 
 * Office hours:
-    * Instructor: TBA
+    * Instructor: Mondays 2 pm, Computer Science Building 456
     * Kiran: Tuesdays 1-2 pm, Mudd 416 (in Data Science Institute)
     * Tim: Mondays 1-2pm, Mudd 516
     * Jacob: Wednesdays 10-11am, CS Lounge
