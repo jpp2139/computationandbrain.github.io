@@ -22,7 +22,7 @@ permalink: /about/
     * Kiran: Tuesdays 1-2 pm, Mudd 416 (in Data Science Institute)
     * Tim: Mondays 1-2pm, Mudd 516
     * Jacob: Wednesdays 10-11am, CS Lounge
-    * Dan: Wednesdays 11am-12pm, CS Lounge
+    * Dan: Tuesdays 2-3pm, Wednesdays 11am-12pm, CS Lounge
 
 [Piazza page for the course](https://piazza.com/columbia/fall2018/comse6998_006_2018_3topicsincomputerscience/).
 
