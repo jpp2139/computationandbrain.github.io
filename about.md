@@ -20,7 +20,7 @@ permalink: /about/
 * Office hours:
     * Instructor: Mondays 2 pm, Computer Science Building 456
     * Kiran: Tuesdays 1-2 pm, Mudd 416 (in Data Science Institute)
-    * Tim: Mondays 1-2pm, Mudd 516
+    * Tim: Mondays 1-2pm, Mudd 522
     * Jacob: Wednesdays 10-11am, CS Lounge
     * Dan: Tuesdays 2-3pm, Wednesdays 11am-12pm, CS Lounge
 
