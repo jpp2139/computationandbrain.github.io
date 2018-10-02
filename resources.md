@@ -14,11 +14,8 @@ There are many online resources that can be helpful for learning the content of 
 * Week 1: [[Slides]](/slides/Lecture1.pptx) [[Notes]](/notes/notes1.pdf)
 * Week 2: [[Slides]](/slides/Lecture2.pptx) [[Notes]](/notes/notes2.pdf)
 * Week 3: [[Slides]](/slides/Lecture3.pptx) [[Notes]](/notes/notes3.pdf)
-* Week 4: [[Slides]](/slides/Lecture4.pptx) 
+* Week 4: [[Slides]](/slides/Lecture4.pptx) [[Notes]](/notes/notes4.pdf)
 
-<!--
-[[Notes]](/notes/notes4.pdf)
--->
 
 <!--
 ## Guest Lecturer Slides
