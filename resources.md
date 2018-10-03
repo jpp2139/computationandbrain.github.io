@@ -16,11 +16,11 @@ There are many online resources that can be helpful for learning the content of 
 * Week 3: [[Slides]](/slides/Lecture3.pptx) [[Notes]](/notes/notes3.pdf)
 * Week 4: [[Slides]](/slides/Lecture4.pptx) [[Notes]](/notes/notes4.pdf)
 
-
-<!--
 ## Guest Lecturer Slides
 
 * Kiran Vodrahalli on fMRI Decoding and Word Embeddings [[Slides]](/slides/vodrahalli_fmri.pdf)
+
+<!--
 * Jacob Portes on 
 -->
 

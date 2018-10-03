@@ -26,6 +26,7 @@ permalink: /about/
 
 [Piazza page for the course](https://piazza.com/columbia/fall2018/comse6998_006_2018_3topicsincomputerscience/).
 
+[Homework Page](/)
 
 ### Description
 
