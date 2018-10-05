@@ -21,9 +21,8 @@ There are many online resources that can be helpful for learning the content of 
 
 * Kiran Vodrahalli on fMRI Decoding and Word Embeddings [[Slides]](/slides/vodrahalli_fmri.pdf)
 
-<!--
-* Jacob Portes on 
--->
+* Jacob Portes on Computation in the Fly Brain [[Slides]](/slides/portes_flybrain.pdf)
+
 
 ## Similar Courses/Related Material
 
