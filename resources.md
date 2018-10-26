@@ -26,6 +26,8 @@ There are many online resources that can be helpful for learning the content of 
 
 * Jacob Portes on Computation in the Fly Brain [[Slides]](/slides/portes_flybrain.pdf)
 
+* Melina Tsitsiklis on How the Brain Encodes Spatial Memories [[Slides]](/slides/melina_tsitsiklis_talk.pdf)
+
 
 ## Similar Courses/Related Material
 
