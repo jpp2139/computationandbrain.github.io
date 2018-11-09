@@ -18,7 +18,9 @@ There are many online resources that can be helpful for learning the content of 
 * Week 5: [[Slides]](/slides/Lecture5.pdf) [[Notes]](/notes/notes5.pdf)
 * Week 6: [[Slides]](/slides/Lecture6.pdf) [[Notes]](/notes/notes6.pdf)
 * Week 7: [[Slides]](/slides/Lecture7.pdf) [[Notes]](/notes/notes7.pdf)
-* Week 8: [[Slides]](/slides/Lecture8.pdf)
+* Week 8: [[Slides]](/slides/Lecture8.pdf) [[Notes]](/notes/notes8.pdf)
+* Week 9: [[Slides]](/slides/Lecture9.pdf) [[Notes]](/notes/notes9.pdf)
+* Week 10: [[Slides]](/slides/Lecture10.pdf)
 
 ## Guest Lecturer Slides
 
