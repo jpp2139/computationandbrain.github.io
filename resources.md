@@ -20,7 +20,10 @@ There are many online resources that can be helpful for learning the content of 
 * Week 7: [[Slides]](/slides/Lecture7.pdf) [[Notes]](/notes/notes7.pdf)
 * Week 8: [[Slides]](/slides/Lecture8.pdf) [[Notes]](/notes/notes8.pdf)
 * Week 9: [[Slides]](/slides/Lecture9.pdf) [[Notes]](/notes/notes9.pdf)
-* Week 10: [[Slides]](/slides/Lecture10.pdf)
+* Week 10: [[Slides]](/slides/Lecture10.pdf) [[Notes]](/notes/notes10.pdf)
+* Week 11: [[Slides]](/slides/Lecture11.pdf) [[Notes]](/notes/notes11.pdf)
+* Week 12: [[Slides]](/slides/Lecture12.pdf) [[Notes]](/notes/notes12.pdf)
+* Week 13: [[Slides]](/slides/Lecture13.pdf)
 
 ## Guest Lecturer Slides
 
@@ -34,6 +37,8 @@ There are many online resources that can be helpful for learning the content of 
 ## Similar Courses/Related Material
 
 * [Santosh Vempala's Computation and the Brain course @ Georgia Tech, Fall 2016](https://computationandbrain.wordpress.com/)
+
+* [Sanjoy Dasgupta's Neurally Inspired Unsupervised Learning](http://cseweb.ucsd.edu/~dasgupta/254/index.html)
 
 * [Simons Institute: The Brain and Computation, Spring 2018](https://simons.berkeley.edu/programs/brain2018)
 
