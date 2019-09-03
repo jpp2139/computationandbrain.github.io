@@ -4,34 +4,14 @@ title: Resources
 permalink: /resources/
 ---
 
-There are many online resources that can be helpful for learning the content of this class. Here are a few.  If you find others, please post on [Piazza](https://piazza.com/columbia/fall2018/comse6998_006_2018_3topicsincomputerscience/) and we can add them here.
+There are many online resources that can be helpful for learning the content of this class. Here are a few.  If you find others, please post on [Piazza](TBD) and we can add them here.
 
 * TOC
 {:toc}
 
-## Notes and Slides for the Course
+## Slides for the Course
 
-* Week 1: [[Slides]](/slides/Lecture1.pptx) [[Notes]](/notes/notes1.pdf)
-* Week 2: [[Slides]](/slides/Lecture2.pptx) [[Notes]](/notes/notes2.pdf)
-* Week 3: [[Slides]](/slides/Lecture3.pptx) [[Notes]](/notes/notes3.pdf)
-* Week 4: [[Slides]](/slides/Lecture4.pptx) [[Notes]](/notes/notes4.pdf)
-* Week 5: [[Slides]](/slides/Lecture5.pdf) [[Notes]](/notes/notes5.pdf)
-* Week 6: [[Slides]](/slides/Lecture6.pdf) [[Notes]](/notes/notes6.pdf)
-* Week 7: [[Slides]](/slides/Lecture7.pdf) [[Notes]](/notes/notes7.pdf)
-* Week 8: [[Slides]](/slides/Lecture8.pdf) [[Notes]](/notes/notes8.pdf)
-* Week 9: [[Slides]](/slides/Lecture9.pdf) [[Notes]](/notes/notes9.pdf)
-* Week 10: [[Slides]](/slides/Lecture10.pdf) [[Notes]](/notes/notes10.pdf)
-* Week 11: [[Slides]](/slides/Lecture11.pdf) [[Notes]](/notes/notes11.pdf)
-* Week 12: [[Slides]](/slides/Lecture12.pdf) [[Notes]](/notes/notes12.pdf)
-* Week 13: [[Slides]](/slides/Lecture13.pdf)
-
-## Guest Lecturer Slides
-
-* Kiran Vodrahalli on fMRI Decoding and Word Embeddings [[Slides]](/slides/vodrahalli_fmri.pdf)
-
-* Jacob Portes on Computation in the Fly Brain [[Slides]](/slides/portes_flybrain.pdf)
-
-* Melina Tsitsiklis on How the Brain Encodes Spatial Memories [[Slides]](/slides/melina_tsitsiklis_talk.pdf)
+* Week 1: 
 
 
 ## Similar Courses/Related Material
