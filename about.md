@@ -9,22 +9,20 @@ permalink: /about/
 
 ### Info 
 
-**Course:** Computation and the Brain @ Columbia University, Fall 2018
+**Course:** Computation and the Brain @ Columbia University, Fall 2019
 
 **Instructor:**  [Christos Papadimitriou](https://people.eecs.berkeley.edu/~christos/)
 
-**TAs:** [Kiran Vodrahalli](https://kiranvodrahalli.github.io), Tim Randolph, [Jacob Portes](http://www.columbia.edu/~jpp2139/), Dan Mitropolsky
+**TAs:** Dan Mitropolsky, Jacob Portes
 
-**Lecture:** Wed 4:10pm-6:40pm; 633 Mudd Hall, Columbia University
+**Lecture:** Wed 4:10pm-6:40pm; 233 Mudd Hall, Columbia University
 
 * Office hours:
-    * Instructor: Mondays 2 pm, Computer Science Building 456
-    * Kiran: Tuesdays 1-2 pm, Mudd 416 (in Data Science Institute)
-    * Tim: Mondays 1-2pm, Mudd 522
-    * Jacob: Wednesdays 10-11am, CS Lounge
-    * Dan: Tuesdays 2-3pm, CS Lounge
+    * Instructor: TBD
+    * Dan: TBD
+    * Jacob: TBD
 
-[Piazza page for the course](https://piazza.com/columbia/fall2018/comse6998_006_2018_3topicsincomputerscience/).
+Piazza page for the course: TBD.
 
 [Homework Page](/)
 
@@ -87,6 +85,6 @@ Keep in mind this is a graduate level topics course --- the class will be struct
 
 ### Homework assignments
 
-Grading will be done via [Gradescope](https://www.gradescope.com/). Please sign up as per the instructions on [Piazza](https://piazza.com/columbia/fall2018/comse6998_006_2018_3topicsincomputerscience/). 
+Grading will be done via [Gradescope](https://www.gradescope.com/). Please sign up as per the instructions on [Piazza](TBD). 
 
 
