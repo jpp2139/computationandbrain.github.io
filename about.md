@@ -22,7 +22,8 @@ permalink: /about/
     * Dan: TBD
     * Jacob: Tuesdays, 9-10 am, Joe's Coffee (@ Broadway and 120th Street)
 
-Piazza page for the course: TBD.
+[Piazza course page](https://piazza.com/class/k05kpw05z1ant)
+[Gradescope course page](https://www.gradescope.com/courses/61715)
 
 [Homework Page](/)
 
@@ -82,6 +83,6 @@ Keep in mind this is a graduate level topics course --- the class will be struct
 
 ### Homework assignments
 
-Grading will be done via [Gradescope](https://www.gradescope.com/). Please sign up as per the instructions on [Piazza](TBD). 
+Grading will be done via [Gradescope](https://www.gradescope.com/courses/61715). Please sign up as per the instructions on [Piazza](https://piazza.com/class/k05kpw05z1ant). 
 
 
