@@ -23,6 +23,7 @@ permalink: /about/
     * Jacob: Tuesdays, 9-10 am, Joe's Coffee (@ Broadway and 120th Street)
 
 [Piazza course page](https://piazza.com/class/k05kpw05z1ant)
+
 [Gradescope course page](https://www.gradescope.com/courses/61715)
 
 [Homework Page](/)
