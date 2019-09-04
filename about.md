@@ -20,7 +20,7 @@ permalink: /about/
 * Office hours:
     * Instructor: TBD 456 Computer Science Building
     * Dan: TBD
-    * Jacob: Tuesdays, 9-10 am, Joe's Coffee (@ Broadway and 120th Street)
+    * Jacob: Wednesdays, 9-10 am, Joe's Coffee (@ Broadway and 120th Street)
 
 [Piazza course page](https://piazza.com/class/k05kpw05z1ant)
 
