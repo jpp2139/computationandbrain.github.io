@@ -34,9 +34,9 @@ Despite a deluge of exciting results in experimental and theoretical neuroscienc
 
 The purpose of this course is to give participants some of the necessary background for appreciating this fascinating interface between **computation and neuroscience**, with an emphasis on **language**.  The class will meet once a week for a lecture and discussion, often preceded by a talk by a guest speaker.  There will be substantial weekly reading assignments.  The class will culminate in a project (by teams of 2-3 participants), typically further exploring an aspect of the subject, or framing it in a productive mathematical/computational way.  
 
-There will be no required textbook, but (the latest edition of) [The Principles of Neuroscience](https://neurology.mhmedical.com/book.aspx?bookID=1049) is a valuable resource for molecular through systems neuroscience.
+There will be no required textbook, but (the latest edition of) [The Principles of Neuroscience](https://neurology.mhmedical.com/book.aspx?bookID=1049) is an invaluable tome of molecular/systems neuroscience.
 
-Several other learning resources can be found [here](/resources).
+Our recommended learning resources can be found [here](/resources).
 
 List of topics:
 
