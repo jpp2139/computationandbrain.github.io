@@ -32,7 +32,7 @@ There are many online resources that can be helpful for learning the content of 
 
 ### Computational Neuroscience 
 
-* [The Computational Brain](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262533393.001.0001/upso-9780262533393) by Patricia Churchland and Terrence Sejnowski
+* [The Computational Brain](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262533393.001.0001/upso-9780262533393) by Patricia Churchland and Terrence Sejnowski (available via [CLIO](https://clio.columbia.edu/))
 
 * [Theoretical Neuroscience (Dayan and Abbott - 2001)](https://www.amazon.com/Theoretical-Neuroscience-Computational-Mathematical-Modeling/dp/0262541858/ref=sr_1_1?s=books&ie=UTF8&qid=1535668549&sr=1-1&keywords=Theoretical+Neuroscience)
 
