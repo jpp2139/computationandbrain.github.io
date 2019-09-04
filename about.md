@@ -72,7 +72,7 @@ Keep in mind this is a graduate level topics course --- the class will be struct
 
 * Participating in class discussions (and hopefully on Piazza as well!)
 
-* Final (group-based) project: One of 
+* Final (group-based) project and presentation: One of 
 
    * Review of a topic relevant to computation and the brain not discussed in class; 
 
