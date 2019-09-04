@@ -12,6 +12,8 @@ There are many online resources that can be helpful for learning the content of 
 ## Slides for the Course
 
 * Week 1: 
+* Week 2:
+* Week 3:
 
 
 ## Similar Courses/Related Material
@@ -26,9 +28,11 @@ There are many online resources that can be helpful for learning the content of 
 
 ### Neuroscience
 
-* [Principles of Neural Science (Kandell, Schwartz, Jessell, Siegelbaum, Hudspeth, Mack)](https://neurology.mhmedical.com/book.aspx?bookID=1049)
+* [Principles of Neural Science (Kandell, Schwartz, Jessell, Siegelbaum, Hudspeth, Mack)](https://neurology.mhmedical.com/book.aspx?bookID=1049) (available via [CLIO](https://clio.columbia.edu/))
 
 ### Computational Neuroscience 
+
+* [The Computational Brain](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262533393.001.0001/upso-9780262533393) by Patricia Churchland and Terrence Sejnowski
 
 * [Theoretical Neuroscience (Dayan and Abbott - 2001)](https://www.amazon.com/Theoretical-Neuroscience-Computational-Mathematical-Modeling/dp/0262541858/ref=sr_1_1?s=books&ie=UTF8&qid=1535668549&sr=1-1&keywords=Theoretical+Neuroscience)
 
@@ -37,6 +41,11 @@ There are many online resources that can be helpful for learning the content of 
 * [Fundamentals of Computational Neuroscience (Trappenberg - 2010)](https://www.amazon.com/Fundamentals-Computational-Neuroscience-Thomas-Trappenberg-ebook/dp/B00F1D7K90)
 
 * [Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition (Gerstner, Paninski - 2014)](https://www.amazon.com/Neuronal-Dynamics-Neurons-Networks-Cognition/dp/1107635195)
+
+### Language and the Brain
+* [Language in Our Brain: The Origins of a Uniquely Human Capacity](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262036924.001.0001/upso-9780262036924) by Angela Friederici (available via [CLIO](https://clio.columbia.edu/))
+
+* [Why Only Us: Language and Evolution](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262034241.001.0001/upso-9780262034241) by Robert Berwick and Noam Chomsky (available via [CLIO](https://clio.columbia.edu/))
 
 ### Algorithms and Machine Learning
 
