@@ -18,9 +18,9 @@ permalink: /about/
 **Lecture:** Wed 4:10pm-6:40pm; 233 Mudd Hall, Columbia University
 
 * Office hours:
-    * Instructor: TBD
+    * Instructor: TBD 456 Computer Science Building
     * Dan: TBD
-    * Jacob: TBD
+    * Jacob: Tuesdays, 9-10 am, Joe's Coffee (@ Broadway and 120th Street)
 
 Piazza page for the course: TBD.
 
@@ -36,7 +36,7 @@ There will be no required textbook, but (the latest edition of) [The Principles 
 
 Several other learning resources can be found [here](/resources).
 
-Tentative list of topics:
+List of topics:
 
 * General Introduction
 * Vision and neural coding
@@ -45,19 +45,20 @@ Tentative list of topics:
 * Learning and plasticity
 * Motion and decisions
 * Memory, hippocampus, place and grid cells
-* Whole brain computational models
-* Brain oscillations
-* The Other Brain (thalamus, cerebellum, glia, basal ganglia, spinal cord,…)
-* Reinforcement learning
 * Natural language
 * Assemblies of neurons
 * On evolution and development
+
+Tentative topics:
+* The Other Brain (thalamus, cerebellum, glia, basal ganglia, spinal cord,…)
+* Reinforcement learning
+
       
 (NB: the precise list will be influenced by class reaction and interest)
 
 ### Prerequisites
 
-Some exposure to programming, algorithms, complexity theory, and machine learning is great. Neuroscience background will also be useful.
+Some exposure to programming, algorithms, complexity theory, and machine learning is required. Neuroscience background will also be useful. Some homework assignments will include programming and proof-based problems.
 
 Keep in mind this is a graduate level topics course --- the class will be structured around participation in discussions and reading papers, some of which will be theoretical in nature. 
 
@@ -65,13 +66,9 @@ Keep in mind this is a graduate level topics course --- the class will be struct
 
 * Attendance at the lecture each week
 
-* Doing the assigned reading and writing up a graded one-page discussion each week, to be posted on Gradescope. Also, include two questions about the material in preparation for the class. There may be an in-class quiz on the reading.
+* Doing the assigned reading and writing up a graded one-page discussion each week, to be posted on Gradescope. Also, include two questions about the material in preparation for the class. 
 
 * Participating in class discussions (and hopefully on Piazza as well!)
-
-* Scribing notes for at least one lecture
-
-* One short project (you will have a week or so to do it)
 
 * Final (group-based) project: One of 
 
