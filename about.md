@@ -36,6 +36,8 @@ The purpose of this course is to give participants some of the necessary backgro
 
 There will be no required textbook, but (the latest edition of) [The Principles of Neuroscience](https://neurology.mhmedical.com/book.aspx?bookID=1049) is an invaluable tome of molecular/systems neuroscience.
 
+We will most likely read through large parts of [Language in Our Brain: The Origins of a Uniquely Human Capacity](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262036924.001.0001/upso-9780262036924) by Angela Friederici and [Why Only Us: Language and Evolution](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262034241.001.0001/upso-9780262034241) by Berwick and Chomsky.
+
 Our recommended learning resources can be found [here](/resources).
 
 List of topics:
