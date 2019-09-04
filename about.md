@@ -30,11 +30,11 @@ Piazza page for the course: TBD.
 
 Despite a deluge of exciting results in experimental and theoretical neuroscience over the past decades, some of the top researchers in the area agree that progress has been slow on the field's overarching question:  How does the Brain (molecules, neurons, synapses) give rise to the Mind (cognition, behavior, learning, thought)?  This is arguably one of the hardest and most fundamental challenges in science today.  Many expect that computation will be an important workhorse, conceptual framework, and metaphor of this epic interdisciplinary scientific effort.  On another front, advances in machine learning have often been inspired by the Brain, albeit in a pointedly tentative way. 
 
-The purpose of this course is to give participants some of the necessary background for appreciating this fascinating interface between computation and neuroscience, and for making progress in it.  The class will meet once a week for a lecture and discussion, often preceded by a talk by a guest speaker.  There will be substantial weekly reading assignments.  The class will culminate in a project (by teams of 3-4 participants), typically further exploring an aspect of the subject, or framing it in a productive mathematical/computational way.  
+The purpose of this course is to give participants some of the necessary background for appreciating this fascinating interface between **computation and neuroscience**, with an emphasis on **languagez**.  The class will meet once a week for a lecture and discussion, often preceded by a talk by a guest speaker.  There will be substantial weekly reading assignments.  The class will culminate in a project (by teams of 2-3 participants), typically further exploring an aspect of the subject, or framing it in a productive mathematical/computational way.  
 
-There will be no required textbook, but (the latest edition of) [this book](https://neurology.mhmedical.com/book.aspx?bookID=1049) is a valuable resource for any serious student of the Brain.
+There will be no required textbook, but (the latest edition of) [The Principles of Neuroscience](https://neurology.mhmedical.com/book.aspx?bookID=1049) is a valuable resource for molecular through systems neuroscience.
 
-Several other learning resources will be available.
+Several other learning resources can be found [here](/resources).
 
 Tentative list of topics:
 
