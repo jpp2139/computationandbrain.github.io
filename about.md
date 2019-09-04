@@ -70,7 +70,7 @@ Keep in mind this is a graduate level topics course --- the class will be struct
 
 * Attendance at the lecture each week
 
-* Doing the assigned reading and writing up a graded summary/discussion each week, to be posted on Gradescope and LaTeX formatted ((https://www.overleaf.com/) is a great resource). Also, including two questions about the material in preparation for the class. 
+* Doing the assigned reading and writing up a graded summary/discussion each week, to be posted on Gradescope and LaTeX formatted (https://www.overleaf.com/ is a great resource). Also, including two questions about the material in preparation for the class. 
 
 * Participating in class discussions (and hopefully on Piazza as well!)
 
