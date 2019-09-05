@@ -10,7 +10,7 @@ The purpose of this assignment is to (a) familiarize you with an important resul
         2. What is the resting potential? What is the reversal potential?
         3. What are voltage-dependent conductances?
     
-    2. Read/skim the original paper [A Quantitaive Description of Membrane Current and its Application to Conduction and Excitation in Nerve](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/pdf/jphysiol01442-0106.pdf) and summarize in your own words how they arrived at their set of 4 coupled equations:
+    2. Read/skim the original paper [A Quantitative Description of Membrane Current and its Application to Conduction and Excitation in Nerve](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/pdf/jphysiol01442-0106.pdf) and summarize in your own words how they arrived at their set of 4 coupled equations:
     
     ![equation](https://latex.codecogs.com/png.latex?I&space;=&space;C_m\frac{{\mathrm&space;d}&space;V_m}{{\mathrm&space;d}&space;t}&space;&plus;&space;\bar{g}_\text{K}n^4(V_m&space;-&space;V_K)&space;&plus;&space;\bar{g}_\text{Na}m^3h(V_m&space;-&space;V_{Na})&space;&plus;&space;\bar{g}_l(V_m&space;-&space;V_l))
     
