@@ -5,6 +5,6 @@
     
     2. Read/skim the original paper [A Quantitaive Description of Membrane Current and its Application to Conduction and Excitation in Nerve](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/pdf/jphysiol01442-0106.pdf) and summarize in your own words how they arrived at their 4-equations:
     
-    ![equation](https://latex.codecogs.com/gif.latex?I&space;=&space;C_m\frac{{\mathrm&space;d}&space;V_m}{{\mathrm&space;d}&space;t}&space;&plus;&space;\bar{g}_\text{K}n^4(V_m&space;-&space;V_K)&space;&plus;&space;\bar{g}_\text{Na}m^3h(V_m&space;-&space;V_{Na})&space;&plus;&space;\bar{g}_l(V_m&space;-&space;V_l)" title="I = C_m\frac{{\mathrm d} V_m}{{\mathrm d} t} + \bar{g}_\text{K}n^4(V_m - V_K) + \bar{g}_\text{Na}m^3h(V_m - V_{Na}) + \bar{g}_l(V_m - V_l)))
+    ![equation](https://latex.codecogs.com/gif.latex?I&space;=&space;C_m\frac{{\mathrm&space;d}&space;V_m}{{\mathrm&space;d}&space;t}&space;&plus;&space;\bar{g}_\text{K}n^4(V_m&space;-&space;V_K)&space;&plus;&space;\bar{g}_\text{Na}m^3h(V_m&space;-&space;V_{Na})&space;&plus;&space;\bar{g}_l(V_m&space;-&space;V_l))
 
 ![equation](https://latex.codecogs.com/png.latex?I&space;=&space;C_M&space;\frac{dV}{dt}&space;&plus;&space;I_i)
