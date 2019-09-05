@@ -25,6 +25,27 @@ The purpose of this assignment is to (a) familiarize you with an important resul
     3. It is hard to gain an appreciation for this model without simulating it. Simulate this model with the following parameters (TBD). Be careful to use the update rules articulated in Appendix 5.11 in [Theoretical Neuroscience](https://ebookcentral.proquest.com/lib/columbia/detail.action?docID=3338869).
     
     
+### Integrate and Fire Neurons
+
+### Vision - Spatiotemporal Receptive Fields
+
+### McCulloch-Pitts Neuron
+
+### Rosenblatt Perceptron
+
+### Backpropagation
+
+### Biological Backpropagation
+
+### Hopfield Net
+
+### Ring Attractor
+
+
+
+### 
+    
+    
     
     
     
