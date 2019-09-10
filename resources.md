@@ -52,6 +52,10 @@ There are many online resources that can be helpful for learning the content of 
 * [Foundations of Data Science (Blum, Hopcroft, Kannan)](https://www.cs.cornell.edu/jeh/book.pdf)
 * [A Course in Machine Learning (Daumé III)](http://ciml.info/)
 
+### Reinforcement Learning
+
+* [Reinforcement Learning (Sutton and Barto 2018](http://incompleteideas.net/book/the-book-2nd.html) (The full pdf is available from the authors online). Chapter 15 is devoted to the connection between modern reinforcement learning and neuroscience
+
 ### Complexity Theory 
 
 * [Mathematics and Computation (Widgerson - 2018)](https://www.math.ias.edu/files/mathandcomp.pdf)
