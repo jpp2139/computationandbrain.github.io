@@ -22,7 +22,7 @@ permalink: /about/
     * Dan: TBD
     * Jacob: Mondays, 9-10 am, Joe's Coffee (@ Broadway and 120th Street)
 
-[Piazza course page](https://piazza.com/class/k05kpw05z1ant)
+[Piazza course page](https://piazza.com/columbia/fall2019/comse6998_004_2019_1topicsincomputerscience)
 
 [Gradescope course page](https://www.gradescope.com/courses/61715)
 
@@ -70,7 +70,7 @@ Keep in mind this is a graduate level topics course --- the class will be struct
 
 * Attendance at the lecture each week
 
-* Doing the assigned reading and writing up a graded summary/discussion each week, to be posted on Gradescope and LaTeX formatted (https://www.overleaf.com/ is a great resource). Also, including two questions about the material in preparation for the class. 
+* Doing the assigned reading and writing up a graded summary/discussion each week, to be posted on Gradescope and LaTeX formatted ([https://www.overleaf.com/] is a great resource). Also, including two questions about the material in preparation for the class. 
 
 * Participating in class discussions (and hopefully on Piazza as well!)
 
